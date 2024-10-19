@@ -7,8 +7,8 @@
 
 * On Windows power shell run this command
 
-```python -m venv .venv
-.venv/scripts/activate
+``` python -m venv .venv
+    .venv/scripts/activate
 ```
 
 * INstall dependencies
