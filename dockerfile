@@ -1,4 +1,4 @@
-FROM python:3.13-alpine
+FROM python:3.13
 LABEL author="Ruman"
 COPY . /app
 WORKDIR /app
